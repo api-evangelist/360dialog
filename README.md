@@ -66,7 +66,7 @@
 
 360dialog provides a WhatsApp Business Solutions Platform that enables enterprises to integrate WhatsApp messaging into their customer communication channels. Through a robust API, businesses can send notifications, support messages, and marketing content at scale, leveraging official Meta partnership and compliance. The platform offers features such as message templates, webhooks, sandbox testing, and detailed analytics, helping over 100,000 businesses handle billions of messages monthly.
 
-**Areas:** Company · WhatsApp · Messaging · API · Business
+**Areas:** Company · WhatsApp · Messaging · Business
 
 ## 360dialog on APIs.io
 
@@ -114,14 +114,14 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [360Dialog Authentication](https://apis.io/security/360dialog/360dialog-authentication/)
-- [360Dialog Domain Security](https://apis.io/security/360dialog/360dialog-domain-security/)
+- [360dialog Authentication](https://apis.io/security/360dialog/360dialog-authentication/)
+- [360dialog Domain Security](https://apis.io/security/360dialog/360dialog-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [360Dialog Plans Pricing](https://apis.io/plans/360dialog/360dialog-plans-pricing/)
+- [360dialog Plans Pricing](https://apis.io/plans/360dialog/360dialog-plans-pricing/)
 
 ## Where to find this API
 
@@ -140,33 +140,33 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 59.5** — strong · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 47.9** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 58.9 |
-| Contract quality | 55.0 |
-| Contract governance | 79.1 |
-| Operational transparency | 39.5 |
+| Discoverability | 60.7 |
+| Contract quality | 35.0 |
+| Contract governance | 35.6 |
+| Operational transparency | 35.7 |
 | Developer ergonomics | 59.5 |
-| Access clarity | 62.6 |
+| Access clarity | 57.4 |
 
-**Agent readiness 22.5** — agent-aware
+**Agent readiness 22.2** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | bearer (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
-| Event Surface Described | unknown |
+| Event Surface Described | yes |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -176,6 +176,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 20.6** — Horizontal (data, software, accessibility, platform)
 
